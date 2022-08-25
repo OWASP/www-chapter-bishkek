@@ -41,9 +41,9 @@ meetup-group:
   ## Участие
   Open Web Application Security Project (OWASP) — это некоммерческая организация, работающая над повышением безопасности программного обеспечения. Все наши проекты, инструменты, документы, форумы и главы бесплатны и открыты для всех, кто заинтересован в повышении безопасности приложений.
 
-  Отделения возглавляют местные лидеры в соответствии с Политикой отделений. Финансовые взносы должны быть сделаны только онлайн с использованием авторизованной кнопки онлайн-пожертвования.
+  Бишкекское отделение возглавляют местные лидеры в соответствии с Политикой отделений. Финансовые взносы должны быть сделаны только онлайн с использованием авторизованной кнопки онлайн-пожертвования.
 
-  Приглашаем всех принять участие в наших [Проектах](/projects/), [Местных Отделениях](/chapters/), [Мероприятиях](/events/), [Онлайн Группах](https://groups.google.com/a/owasp.com/){:target='_blank'} и [Slack Канале Сообщества](https://owasp.slack.com/){:target='_blank'}. Мы особенно поощряем разнообразие во всех наших инициативах. OWASP — это фантастическое место, где можно узнать о безопасности приложений, пообщаться в сети и даже укрепить свою репутацию эксперта. Мы также призываем вас [стать участником](/membership/) или рассмотреть вопрос о [пожертвовании](/donate/) для поддержки нашей текущей работы.
+  Приглашаем всех принять участие в наших [Проектах](/projects/), [Местных Отделениях](/chapters/), [Мероприятиях](/events/), [Онлайн Группах](https://groups.google.com/a/owasp.com/){:target='_blank'} и [Slack Канале Сообщества](https://owasp.slack.com/){:target='_blank'}. OWASP — это чудесное место, где можно узнать о безопасности приложений, установить полезные связи и даже построить свою репутацию эксперта. Мы также призываем вас [стать участником](/membership/) или рассмотреть вопрос о [пожертвовании](/donate/) для поддержки нашей текущей работы.
 
   ## Сотрудничество
   Если у вас есть тема с которой вы хотели бы выступить на одной из будущих встреч Бишкекского отделения OWASP, свяжитесь с одним из лидеров отделения.
@@ -68,9 +68,9 @@ meetup-group:
   ## Participation
   The Open Web Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. All of our projects ,tools, documents, forums, and chapters are free and open to anyone interested in improving application security. 
 
-  Chapters are led by local leaders in accordance with the [Chapters Policy](/www-policy/operational/chapters). Financial contributions should only be made online using the authorized online donation button. 
+  Bishkek chapter is led by local leaders in accordance with the [Chapters Policy](/www-policy/operational/chapters). Financial contributions should only be made online using the authorized online donation button. 
 
-  Everyone is welcome and encouraged to participate in our [Projects](/projects/), [Local Chapters](/chapters/), [Events](/events/), [Online Groups](https://groups.google.com/a/owasp.com/){:target='_blank'}, and [Community Slack Channel](https://owasp.slack.com/){:target='_blank'}. We especially encourage diversity in all our initiatives. OWASP is a fantastic place to learn about application security, to network, and even to build your reputation as an expert. We also encourage you to be [become a member](/membership/) or consider a [donation](/donate/) to support our ongoing work.
+  Everyone is welcome and encouraged to participate in our [Projects](/projects/), [Local Chapters](/chapters/), [Events](/events/), [Online Groups](https://groups.google.com/a/owasp.com/){:target='_blank'}, and [Community Slack Channel](https://owasp.slack.com/){:target='_blank'}. OWASP is a fantastic place to learn about application security, to network, and even to build your reputation as an expert. We also encourage you to be [become a member](/membership/) or consider a [donation](/donate/) to support our ongoing work.
 
   ## Collaboration
   If you have a topic you would like to present at a future OWASP Bishkek chapter meeting, please contact one of the chapter leaders.
