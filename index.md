@@ -2,85 +2,81 @@
 
 layout: col-sidebar
 title: OWASP Bishkek
-tags: example-tag
+tags: main
 region: Asia
 meetup-group:
 
 ---
 
-<div style='color:red;'>
+<style>
+  .btn {
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem; 
+    padding-left: 1rem;
+    padding-right: 1rem; 
+    background-color: #3B82F6; 
+    color: #ffffff; 
+    font-weight: 700; 
+    border-radius: 9999px;
+    text-decoration: none;
+  }
+  .btn:hover, .btn:active {
+    background-color: #1D4ED8;
+    color: #ffffff;
+    text-decoration: none;
+  }
+</style>
 
-This is an example of a Project or Chapter Page.  Please change these items to indicate the actual information you wish to present.  In addition to this information, the 'front-matter' above this text should be modified to reflect your actual information.  An explanation of each of the front-matter items is below:
+<a href="#russian" class="btn">RU</a>
+<a href="#kyrgyz" class="btn">KG</a>
+<a href="#english" class="btn">EN</a>
 
-<ul>
-<li>layout: This is the layout used by project and chapter pages.  You should leave this value as col-sidebar</li>
+<div id="russian">
 
-<li>title: This is the title of your project or chapter page, usually the name.  For example, OWASP Zed Attack Proxy or OWASP Baltimore</li>
+  ## Добро пожаловать
+  Добро пожаловать на домашнюю страницу бишкекского отделения OWASP. Мы находимся в самом сердце Центральной Азии – горной стране – Кыргызстане.
 
-<li>tags: This is a space-delimited list of tags you associate with your project or chapter.  If you are using tabs, at least one of these tags should be unique in order to be used in the tabs files (an example tab is included in this repo) </li>
+  Наша цель — организовывать периодические мероприятия для обсуждения интересных тем, касающихся кибербезопасности, разработки приложений и разработки безопасного программного обеспечения (SecDevOps). Если будут другие предложения от сообщества, мы будем рады услышать ваши идеи :)
 
-<li>region: This is the region you are in according to our data</li>
+  ## Участие
+  Open Web Application Security Project (OWASP) — это некоммерческая организация, работающая над повышением безопасности программного обеспечения. Все наши проекты, инструменты, документы, форумы и главы бесплатны и открыты для всех, кто заинтересован в повышении безопасности приложений.
 
-<li>meetup-group: This is the name of your meetup group, usually in the form of OWASP-chapter.  By putting these details here, the section below labeled 'Next Meeting/Event' will get automatically populated with your upcoming meetup events.</li>
-</ul>
+  Бишкекское отделение возглавляют местные лидеры в соответствии с [Политикой отделений](/www-policy/operational/chapters).
+
+  Приглашаем всех принять участие в OWASP [Проектах](/projects/),  [Мероприятиях](/events/), [Онлайн Группах](https://groups.google.com/a/owasp.com/){:target='_blank'} и [Slack Канале Сообщества](https://owasp.slack.com/){:target='_blank'}. OWASP — это чудесное место, где можно узнать о безопасности приложений, установить полезные связи и даже построить свою репутацию эксперта. Мы также призываем вас [стать участником](/membership/) или рассмотреть вопрос о [пожертвовании](/donate/) для поддержки нашей текущей работы.
+
+  ## Сотрудничество
+  Если у вас есть тема, с которой вы хотели бы выступить на одной из будущих встреч Бишкекского отделения OWASP, свяжитесь с [Сардаром](mailto:sardar.sultanaliev@owasp.org).
 
 </div>
 
-## Welcome
-Include some information here about your chapter
 
-## Participation
-The Open Web Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. All of our projects ,tools, documents, forums, and chapters are free and open to anyone interested in improving application security. 
+<div id="kyrgyz">
+</div>
 
-Chapters are led by local leaders in accordance with the [Chapters Policy](/www-policy/operational/chapters). Financial contributions should only be made online using the authorized online donation button. 
+<br>
+<hr>
+<br>
 
-Everyone is welcome and encouraged to participate in our [Projects](/projects/), [Local Chapters](/chapters/), [Events](/events/), [Online Groups](https://groups.google.com/a/owasp.com/){:target='_blank'}, and [Community Slack Channel](https://owasp.slack.com/){:target='_blank'}. We especially encourage diversity in all our initiatives. OWASP is a fantastic place to learn about application security, to network, and even to build your reputation as an expert. We also encourage you to be [become a member](/membership/) or consider a [donation](/donate/) to support our ongoing work.
+<div id="english">
 
-Next Meeting/Event <!-- You should keep this section as it will populate your meetup events -->
----------------------
-{% include chapter_events.html group=page.meetup-group %}
+  ## Welcome
+  Welcome to the OWASP Bishkek chapter homepage. We are located in the heart of Central Asia - a mountainous country - Kyrgyzstan. 
+ 
+  Our aim is to organize periodic events to share interesting topics regarding cybersecurity, application development, and secure software development (SecDevOps). If there will be suggestions from the community, we will be happy to hear your ideas :) 
 
-<!-- You should delete this comment
+  ## Participation
+  The Open Web Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. All of our projects ,tools, documents, forums, and chapters are free and open to anyone interested in improving application security. 
 
-Standard Chapter Page Template
-This is an example of a Project or Chapter page.
-Please change these items to indicate the actual information you wish to present. In addition to this information, the 'front-matter' above the text should be modified to reflect your actual information.  An explanation of each of the front-matter items is below:
+  Bishkek chapter is led by local leaders in accordance with the [Chapters Policy](/www-policy/operational/chapters).
 
-{front matter for this file}
+  Everyone is welcome and encouraged to participate in OWASP [Projects](/projects/), [Events](/events/), [Online Groups](https://groups.google.com/a/owasp.com/){:target='_blank'}, and [Community Slack Channel](https://owasp.slack.com/){:target='_blank'}. OWASP is a fantastic place to learn about application security, to network, and even to build your reputation as an expert. We also encourage you to be [become a member](/membership/) or consider a [donation](/donate/) to support our ongoing work.
 
-```
-- layout: This is the layout used by project and chapter pages.  You should leave this value as col-sidebar
-- title: This is the title of your project or chapter page, usually the name.  For example, OWASP Zed Attack Proxy or OWASP Baltimore
-- tags: This is a space-delimited list of tags you associate with your project or chapter.  If you are using tabs, at least one of these tags should be unique in order to be used in the tabs files (an example tab is included in this repo) 
-- region: This is the region you are in according to our data
-```
+  ## Collaboration
+  If you have a topic you would like to present at a future OWASP Bishkek chapter meeting, please contact [Sardar](mailto:sardar.sultanaliev@owasp.org).
 
-{copy for this file (index.md)}
-Replace the text above the commented area with your information in the format below:
-```
-## Welcome
-Include some information here about your chapter
+  Next Meeting/Event <!-- You should keep this section as it will populate your meetup events -->
+  ---------------------
+  {% include chapter_events.html group=page.meetup-group %}
 
-## Participation
-The Open Web Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. All of our projects ,tools, documents, forums, and chapters are free and open to anyone interested in improving application security. 
-
-Chapters are led by local leaders in accordance with the [Chapter Leader Handbook](/www-policy/rules-of-procedure/chapter-handbook). Financial contributions should only be made online using the authorized online donation button. To be a SPEAKER at ANY OWASP Chapter in the world simply review the [speaker agreement](/www-policy/speaker-agreement) and then contact the local chapter leader with details of what OWASP Project, independent research, or related software security topic you would like to present.
-
-Everyone is welcome and encouraged to participate in our [Projects](/projects), [Local Chapters](/chapters), [Events](/events), [Online Groups](https://groups.google.com/a/owasp.com/){:target='_blank'}, and [Community Slack Channel](https://owasp.slack.com/){:target='_blank'}. We especially encourage diversity in all our initiatives. OWASP is a fantastic place to learn about application security, to network, and even to build your reputation as an expert. We also encourage you to be [become a member](/membership) or consider a [donation](/donate) to support our ongoing work.
-
-## Next Meeting/Event
----------------------
-{% comment %}
-{% include chapter_events.html group=page.meetup-group %}
-{% endcomment %}
-
-```
-{info.md}
-
-This separate file is where you should place links to your Google Group and Meetup page. It will be automatically rendered in the column sidebar.
-
-{leaders.md}
-
-Another separate file that should simply include each leaders name with mailto link as a list. It will also be automatically rendered in the column sidebar.
-
--->
+</div>
