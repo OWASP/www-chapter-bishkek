@@ -43,10 +43,10 @@ meetup-group:
 
   Бишкекское отделение возглавляют местные лидеры в соответствии с [Политикой отделений](/www-policy/operational/chapters).
 
-  Приглашаем всех принять участие в наших [Проектах](/projects/), [Местных Отделениях](/chapters/), [Мероприятиях](/events/), [Онлайн Группах](https://groups.google.com/a/owasp.com/){:target='_blank'} и [Slack Канале Сообщества](https://owasp.slack.com/){:target='_blank'}. OWASP — это чудесное место, где можно узнать о безопасности приложений, установить полезные связи и даже построить свою репутацию эксперта. Мы также призываем вас [стать участником](/membership/) или рассмотреть вопрос о [пожертвовании](/donate/) для поддержки нашей текущей работы.
+  Приглашаем всех принять участие в OWASP [Проектах](/projects/),  [Мероприятиях](/events/), [Онлайн Группах](https://groups.google.com/a/owasp.com/){:target='_blank'} и [Slack Канале Сообщества](https://owasp.slack.com/){:target='_blank'}. OWASP — это чудесное место, где можно узнать о безопасности приложений, установить полезные связи и даже построить свою репутацию эксперта. Мы также призываем вас [стать участником](/membership/) или рассмотреть вопрос о [пожертвовании](/donate/) для поддержки нашей текущей работы.
 
   ## Сотрудничество
-  Если у вас есть тема с которой вы хотели бы выступить на одной из будущих встреч Бишкекского отделения OWASP, свяжитесь с [Сардаром](mailto:sardar.sultanaliev@owasp.org).
+  Если у вас есть тема, с которой вы хотели бы выступить на одной из будущих встреч Бишкекского отделения OWASP, свяжитесь с [Сардаром](mailto:sardar.sultanaliev@owasp.org).
 
 </div>
 
@@ -70,7 +70,7 @@ meetup-group:
 
   Bishkek chapter is led by local leaders in accordance with the [Chapters Policy](/www-policy/operational/chapters).
 
-  Everyone is welcome and encouraged to participate in our [Projects](/projects/), [Local Chapters](/chapters/), [Events](/events/), [Online Groups](https://groups.google.com/a/owasp.com/){:target='_blank'}, and [Community Slack Channel](https://owasp.slack.com/){:target='_blank'}. OWASP is a fantastic place to learn about application security, to network, and even to build your reputation as an expert. We also encourage you to be [become a member](/membership/) or consider a [donation](/donate/) to support our ongoing work.
+  Everyone is welcome and encouraged to participate in OWASP [Projects](/projects/), [Events](/events/), [Online Groups](https://groups.google.com/a/owasp.com/){:target='_blank'}, and [Community Slack Channel](https://owasp.slack.com/){:target='_blank'}. OWASP is a fantastic place to learn about application security, to network, and even to build your reputation as an expert. We also encourage you to be [become a member](/membership/) or consider a [donation](/donate/) to support our ongoing work.
 
   ## Collaboration
   If you have a topic you would like to present at a future OWASP Bishkek chapter meeting, please contact [Sardar](mailto:sardar.sultanaliev@owasp.org).
