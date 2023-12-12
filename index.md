@@ -4,6 +4,7 @@ layout: col-sidebar
 title: OWASP Bishkek
 tags: main
 region: Asia
+country: Japan
 meetup-group:
 
 ---
